@@ -6,7 +6,7 @@ export const Blogs = [
         name:"Netfix Clone Application",
         tags:["react","sass","node js","mongodb"],
         date:"13 April, 2022",
-        imgSrc:"CV/netflixhomepagelive.jpeg",
+        imgSrc:"https://howtodoninja.com/wp-content/uploads/2020/06/Change-Netflix-Video-Quality-1536x653.png",
         link:"https://netflix-clone-live.netlify.app/"
     },
     {
