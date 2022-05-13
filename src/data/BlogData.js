@@ -6,7 +6,7 @@ export const Blogs = [
         name:"Netfix Clone Application",
         tags:["react","sass","node js","mongodb"],
         date:"13 April, 2022",
-        imgSrc:"https://netflix-clone-live.netlify.app/",
+        imgSrc:"CV/netflixhomepagelive.jpeg",
         link:"https://netflix-clone-live.netlify.app/"
     },
     {
