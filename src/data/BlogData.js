@@ -3,7 +3,7 @@
 export const Blogs = [
     {
         id:1,
-        name:"Netfix Clone Application",
+        name:"Netflix Clone Application",
         tags:["react","sass","node js","mongodb"],
         date:"13 April, 2022",
         imgSrc:"https://howtodoninja.com/wp-content/uploads/2020/06/Change-Netflix-Video-Quality-1536x653.png",
@@ -11,10 +11,10 @@ export const Blogs = [
     },
     {
         id:2,
-        name:"coming soon",
+        name:"YouTube Clone Application",
         tags:["react","styled-components"],
-        date:"coming soon",
-        imgSrc:"comming soon",
+        date:"20 May 2022",
+        imgSrc:"https://i.ytimg.com/vi/iyxI2JUZMVo/maxresdefault.jpg",
         link:"https://codebucks.hashnode.dev/react-hamburger-menu"
     },
     {
