@@ -25,7 +25,7 @@ const Main = styled.div`
   background-color: ${(props) => props.theme.body};
   padding: 2rem;
   width: 30vw;
-  height: 65vh;
+  height: 70vh;
   z-index: 3;
   line-height: 1.5;
   cursor: pointer;
