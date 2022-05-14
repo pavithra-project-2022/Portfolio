@@ -25,7 +25,7 @@ const Main = styled.div`
   background-color: ${(props) => props.theme.body};
   padding: 2rem;
   width: 30vw;
-  height: 70vh;
+  height: 65vh;
   z-index: 3;
   line-height: 1.5;
   cursor: pointer;
@@ -41,7 +41,8 @@ const Main = styled.div`
   }
   @media (min-width:0px) and (max-width:400px){
     width: 60vw;
-  height: 40vh;
+  height: 45vh;
+  font-size:15px;
 }
 `;
 
