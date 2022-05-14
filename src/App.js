@@ -14,6 +14,7 @@ import { AnimatePresence } from "framer-motion";
 import SoundBar from "./subComponents/SoundBar";
 import Contact from "./components/Contact";
 import Certification from "./components/Certification";
+import ContactInfo from "./components/ContactInfo";
 
 
 function App() {
@@ -36,7 +37,7 @@ function App() {
       <Route exact path="/blog" component={BlogPage}/>
       <Route exact path="/work" component={WorkPage}/>
       <Route exact path="/skills" component={MySkillsPage}/>
-      <Route exact path="/contact" component={Contact}/>
+      <Route exact path="/contact" component={ContactInfo}/>
       <Route exact path="/certification" component={Certification}/>
         
     </Switch>
