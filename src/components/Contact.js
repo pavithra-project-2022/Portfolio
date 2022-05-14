@@ -121,8 +121,8 @@ const Contact = () => {
         <PowerButton />
         <ParticleComponent theme="light" />
         <Main>
-          <p>pavithrasethuraman92@gmail.com</p>
-          <p>8838647902</p>
+          <p><b>pavithrasethuraman92@gmail.com</b></p>
+          <p><b>8838647902</b></p>
           <Title>Contact Me</Title>
           <Description>
             <form  onSubmit={sendEmail}>
