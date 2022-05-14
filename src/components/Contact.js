@@ -39,7 +39,7 @@ const Main = styled.div`
     color: ${(props) => props.theme.body};
     background-color: ${(props) => props.theme.text};
   }
-  @media (min-width:0px) and (max-width:400px){
+  @media (min-width:0px) and (max-width:770px){
     width: 60vw;
   height: 40vh;
 }
@@ -88,7 +88,7 @@ const Send = styled.button`
 border-radius:5px;
 border:2px solid black;
 margin-left:8rem;
-@media (min-width:0px) and (max-width:400px){
+@media (min-width:0px) and (max-width:770px){
   margin-left:2rem;
 }
 `
