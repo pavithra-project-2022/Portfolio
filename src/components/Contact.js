@@ -41,8 +41,7 @@ const Main = styled.div`
   }
   @media (min-width:0px) and (max-width:400px){
     width: 60vw;
-  height: 45vh;
-  font-size:15px;
+  height: 40vh;
 }
 `;
 
@@ -122,8 +121,7 @@ const Contact = () => {
         <PowerButton />
         <ParticleComponent theme="light" />
         <Main>
-          <p><b>pavithrasethuraman92@gmail.com</b></p>
-          <p><b>8838647902</b></p>
+         
           <Title>Contact Me</Title>
           <Description>
             <form  onSubmit={sendEmail}>
