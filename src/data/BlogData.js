@@ -15,7 +15,7 @@ export const Blogs = [
         tags:["react","styled-components"],
         date:"20 May 2022",
         imgSrc:"https://i.ytimg.com/vi/iyxI2JUZMVo/maxresdefault.jpg",
-        link:"https://codebucks.hashnode.dev/react-hamburger-menu"
+        link:"https://my-utube-app-new.web.app/"
     },
     {
         id:3,
