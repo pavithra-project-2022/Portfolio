@@ -96,7 +96,7 @@ const Intro = () => {
       backDelay: 1500,
       backSpeed: 60,
       showCursor: true,
-      strings: ["Front End Developer", "Designer"],
+      strings: ["Full Stack Developer","Front End Developer", "Designer"],
     });
   }, []);
     return (
