@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import {motion} from 'framer-motion'
-import Me from '../assets/Images/pavicartoon.jpg'
+import Me from '../assets/Images/pavi.jpg'
 import { useRef } from 'react'
 import { useEffect } from 'react'
 import { init } from 'ityped'

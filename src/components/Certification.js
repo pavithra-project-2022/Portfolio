@@ -91,7 +91,7 @@ const Certification = () => {
        
         <Main>
         <h3>Certification Course</h3><br/>
-        <p>* Certification Course completed of FULL STACK DEVELOPMENT with a First class in April 2022 in Guvi Geek Network Private Limited affiliated by IIT Madras and IIM .</p><br/>
+        <p>* Certification Course completed of FULL STACK DEVELOPMENT in April 2022 in Guvi Geek Network Private Limited affiliated by IIT Madras and IIM .</p><br/>
         <p>* Certification completed in DOTNET TECHNOLOGY  Specialized in following areas(accord info matrix in  2013) (C#.NET,ASP.NET,AJAX ,SILVERLIGHT).</p><br/>
         <p>* Certification Course completed of Human Resource  Management with a First class in April 2010.</p>
         </Main>
