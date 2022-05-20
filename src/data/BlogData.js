@@ -1,3 +1,5 @@
+
+
 // blog data
 
 export const Blogs = [
@@ -12,18 +14,18 @@ export const Blogs = [
     {
         id:2,
         name:"YouTube Clone Application",
-        tags:["react","styled-components"],
-        date:"20 May 2022",
+        tags:["react","sass","mongodb"],
+        date:"5 May 2022",
         imgSrc:"https://i.ytimg.com/vi/iyxI2JUZMVo/maxresdefault.jpg",
         link:"https://my-utube-app-new.web.app/"
     },
     {
         id:3,
-        name:"coming soon",
-        tags:["react","react-lottie","styled-components"],
-        date:"coming soon",
-        imgSrc:"coming soon",
-        link:"https://codebucks.hashnode.dev/react-loading-screens"
+        name:"Video Chat Application",
+        tags:["react","Node Js","material ui"],
+        date:"20 May 2022",
+        imgSrc:"CV/videochatnew.png",
+        link:"https://video-calling-application-site.netlify.app/"
     },
     {
         id:4,
@@ -31,7 +33,7 @@ export const Blogs = [
         tags:["react","redux","framer-motion"],
         date:"coming soon",
         imgSrc:"coming soon",
-        link:"https://dev.to/codebucks/build-redux-react-todo-list-app-with-animations-using-framer-motion-1mp1"
+        link:"www.google.com"
     },
     {
         id:5,
@@ -39,7 +41,7 @@ export const Blogs = [
         tags:["react","reactJS","web-development"],
         date:"coming soon",
         imgSrc:"coming soon",
-        link:"https://codebucks.hashnode.dev/what-is-higher-order-component"
+        link:"www.google.com"
     },
     // {
     //     id:6,
