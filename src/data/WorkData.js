@@ -3,7 +3,7 @@
 export const Work = [
     {
         id:1,
-        name:"My Own Portfolio",
+        name:"Portfolio 2",
         description:"It is build on top of the React JS, with Sass and GSAP for smooth scrolling animations.",
         tags:["react","sass"],
         
