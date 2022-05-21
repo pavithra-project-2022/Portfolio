@@ -8,7 +8,7 @@ export const Blogs = [
         name:"Netflix Clone Application",
         tags:["react","sass","node js","mongodb"],
         date:"13 April, 2022",
-        imgSrc:"https://howtodoninja.com/wp-content/uploads/2020/06/Change-Netflix-Video-Quality-1536x653.png",
+        imgSrc:"CV/neflixclone.jpeg",
         link:"https://netflix-clone-live.netlify.app/"
     },
     {
@@ -16,7 +16,7 @@ export const Blogs = [
         name:"YouTube Clone Application",
         tags:["react","sass","mongodb"],
         date:"5 May 2022",
-        imgSrc:"https://i.ytimg.com/vi/iyxI2JUZMVo/maxresdefault.jpg",
+        imgSrc:"CV/youtubeclone.jpeg",
         link:"https://my-utube-app-new.web.app/"
     },
     {
