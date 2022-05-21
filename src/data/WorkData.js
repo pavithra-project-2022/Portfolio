@@ -45,7 +45,8 @@ export const Work = [
         tags:["react","redux","framer-motion"],
         
         demo:"http://react-redux-todo-app-git-main-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/React-Redux-Todo-App"
+        github:"https://github.com/PavithraSethuraman/B32-Day19-Calculator"
+        // github:"https://github.com/codebucks27/React-Redux-Todo-App"
         
     },
     // {
