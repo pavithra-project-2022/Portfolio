@@ -22,15 +22,6 @@ export const Work = [
     },
     {
         id:3,
-        name:"Web Scraping Appliation",
-        description:"A small project done for FSD course using ReactJS. Learning how to web scrap ",
-        tags:["react","api","css"],
-        
-        demo:"https://b32-hackathon2-webscraping-frontend.netlify.app/",
-        github:"https://github.com/PavithraSethuraman/B32WD-Hackathon2-Frontend"
-    },
-    {
-        id:4,
         name:"Simple Calculator",
         description:"A Simple Calculator build using HTML,CSS,DOM",
         tags:["html","css","dom"],
@@ -38,7 +29,18 @@ export const Work = [
         demo:"https://guvi-b32-19-calculator.netlify.app/",
         github:"https://github.com/PavithraSethuraman/B32-Day19-Calculator"
        
-    },{
+    },
+    {
+        id:4,
+        name:"Web Scraping Appliation",
+        description:"A small project done for FSD course using ReactJS. Learning how to web scrap ",
+        tags:["react","api","css"],
+        
+        demo:"https://b32-hackathon2-webscraping-frontend.netlify.app/",
+        github:"https://github.com/PavithraSethuraman/B32WD-Hackathon2-Frontend"
+    },
+    
+    {
         id:5,
         name:"Todo App(React + Redux)",
         description:"A todo app build using Redux-toolkit and framer-motion for smooth animations.",
