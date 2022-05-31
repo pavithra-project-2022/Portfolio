@@ -109,7 +109,7 @@ const MySkillsPage = () => {
 <Description>
 I love to create design which speaks, Keep it clean, minimal and simple.
 </Description>
-<Description>
+{/* <Description>
 <strong>I like to Design</strong>
 <ul>
     <li>
@@ -119,7 +119,7 @@ I love to create design which speaks, Keep it clean, minimal and simple.
         Mobile Apps
     </li>
 </ul>
-</Description>
+</Description> */}
 <Description>
 <strong>Tools</strong>
 <p>
@@ -138,7 +138,7 @@ I value business or brand for which i'm creating, thus i enjoy bringing new idea
 <Description>
 <strong>Skills</strong>
 <p>
-Html, Css, Js, React, Redux, Sass, Bootstrap, Tailwind, MongoDB, MySQL, Node Js, Firebase etc.
+Html, Css, Js, React Js, Redux, Sass, Bootstrap, Tailwind, MongoDB, MySQL, Node Js, Firebase etc.
 </p>
 </Description>
 
