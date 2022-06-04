@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import {motion} from 'framer-motion'
-import Me from '../assets/Images/pavii.png'
+import Me from '../assets/Images/pavi.png'
 import { useRef } from 'react'
 import { useEffect } from 'react'
 import { init } from 'ityped'
@@ -119,7 +119,7 @@ const Intro = () => {
         animate={{opacity: 1}}
         transition={{ duration:1, delay:2 }}
                 >
-                    <img className="pic" src={Me} alt="Profile Pic" />
+                    {/* <img className="pic" src={Me} alt="Profile Pic" /> */}
                 </motion.div>
             </SubBox>
         </Box>
