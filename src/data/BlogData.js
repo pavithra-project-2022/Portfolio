@@ -1,6 +1,6 @@
 
 
-// blog data
+// blog datas
 
 export const Blogs = [
     {
